@@ -1,4 +1,3 @@
-# VoiceBot for Windows
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=&weight=600&size=41&pause=1000&color=F70000&background=A37AFF00&center=true&vCenter=true&random=false&width=500&height=60&lines=VoiceBot+for+Windows)](https://git.io/typing-svg)
 ## About
 A neural network voice model that executes commands on demand, like a voice assistant, but very crude
